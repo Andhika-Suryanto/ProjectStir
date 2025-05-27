@@ -1,0 +1,1 @@
+{"SaveObjectArray":[{"score":1.0,"name":"Tipen"},{"score":3.0,"name":"Mikel"},{"score":5.0,"name":"Fajar"},{"score":6.0,"name":"Scotus"},{"score":82.09008026123047,"name":"dsad"}]}
